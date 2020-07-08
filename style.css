@@ -1,0 +1,158 @@
+
+.container {
+    margin-bottom: 100px;
+}
+
+.navbar {
+    font-size: 18px;
+    padding: 0 30px;
+    font-weight: 500;
+    border: none;
+}
+.header-bg-color {
+    background-color: #F0FFF0;
+}
+.sign-in {
+    background-color: #21b573;
+    color: white!important;
+    border-radius: 50px;
+    border: none;
+    height: 40px;
+    width: 100px;
+    text-align: center;
+    padding-top: 5px;
+}
+.sign-in:hover {
+    background-color: darkgreen;
+}
+.top-text-color {
+    color: #FA7A4C;
+    font-size: 18px;
+    font-weight: 500;
+
+}
+.top-head-text {
+    font-weight: 700;
+    word-spacing: 5px;
+    font-size: 62px;
+}
+.head-color {
+    color: #21b573;
+}
+.get-started-button {
+    background-color: #21b573;
+    color: white;
+    border-radius: 50px;
+    border: none;
+    height: 40px;
+    width: 150px;
+    text-align: center;
+    margin-top: 8px;
+    cursor: pointer;
+}
+.get-started-button:hover {
+    background-color: darkgreen;
+}
+
+p{
+    font-size: 18px;
+    margin-top: 35px;
+}
+
+.book {
+    padding-left: 140px;
+}
+
+.online-course-header-text {
+    padding-bottom: 60px;
+    text-align: center;
+}
+
+.book-text {
+    padding-top: 25px;
+    padding-right: 50px;
+}
+.book-text-pera {
+    font-weight: 400;
+    padding-left: 10px;
+}
+
+
+.card-book {
+    padding-left: 90px;
+    padding-right: 90px;
+    padding-top: 20px
+}
+.card-text-head {
+    text-align: center;
+
+}
+.card-1 {
+    background-color: #F8FFFB;
+    border-radius: 10px;
+}
+.card-1:hover {
+    background-color: white;
+    box-shadow: 5px 5px 10px lightgray;
+    transform: scale(1.05);
+}
+
+
+.card-2 {
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+    background-color: white;
+}
+.card-2:hover {
+     transform: scale(1.05);
+}
+.card-footer {
+    background-color: white;
+    border-top: none;
+    border-radius: 10px;
+}
+.testimonial {
+    text-align: center;
+    padding-bottom: 20px;
+    font-weight: 500;
+}
+
+                       /*=============== footer item start =======================*/
+    .text-item {
+    text-align: center;
+    background-color: #282531;
+    color: white;
+    margin-top: 100px;
+    margin-bottom: 80px;
+    height: 265px;
+}
+    .text-item li {
+    list-style: none;
+}
+    .footer-item-text {
+       font-size: 25px; 
+       padding-top: 20px;
+}
+    .copyright-text {
+       font-weight: 200;
+       font-size: 15px;
+}
+
+/*==========================================================Award section for extra mark ====================================*/
+.award-section{
+    height:200px;
+    width:100%;
+    background-color: #21b573;
+}
+.award{
+    width: 30%;
+    padding-left:3%;
+ 
+    text-align:center;
+}
+
+
+
+
+
